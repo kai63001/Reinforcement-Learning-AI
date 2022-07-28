@@ -1,6 +1,7 @@
 ﻿# Reinforcement-Learning-AI
 Score over time: 8.9047
 <br/>
+<br/>
 output
 ```
 [[6.39501181 7.39501181]
